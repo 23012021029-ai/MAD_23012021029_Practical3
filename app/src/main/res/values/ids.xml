@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="weburlbutton" type="id" />
+    <item name="weburleditTextText" type="id" />
+    <item name="phonenoeditTextText2" type="id" />
+    <item name="callogbutton" type="id" />
+    <item name="gallarybutton" type="id" />
+    <item name="camerabutton" type="id" />
+    <item name="alarmbutton" type="id" />
+    <item name="loginbutton" type="id" />
+    <item name="phonenobutton" type="id">phonenobutton</item>
+    <item name="weburltextView" type="id" />
+    <item name="phonenotextView" type="id" />
+    <item name="calllogtextView" type="id" />
+    <item name="galarrytextView" type="id" />
+    <item name="cameratextView" type="id" />
+    <item name="logintextView" type="id" />
+    <item name="alarmtextView" type="id" />
+</resources>
